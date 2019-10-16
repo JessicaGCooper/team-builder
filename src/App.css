@@ -39,6 +39,7 @@
 .formContainer .form input, select {
   font-size: 1rem;
   border-radius: 5px;
+  padding: 3px;
 }
 
 button:hover {
